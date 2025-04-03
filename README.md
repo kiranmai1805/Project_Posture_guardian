@@ -56,8 +56,8 @@ Frontend (React Native)
 
 Clone the repository:
 
-git clone https://github.com/your-repo/posture-guardian.git
-cd posture-guardian
+git clone https://github.com/Project_Posture_guardian.git
+cd Project_Posture_guardian
 
 Install dependencies:
 
@@ -110,10 +110,7 @@ Future Enhancements
 
 Contributors
 
-D. Kiranmai Meghana Developer & Designer
+Your Name - Developer & Designer
 
+Team Members (if any)
 
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for detail
